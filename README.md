@@ -69,7 +69,7 @@ The project successfully demonstrated the process of building and evaluating dif
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone [https://github.com/your-username/house-price-prediction.git](https://github.com/YeganeHosseini/house-price-prediction.git)
    cd house-price-prediction
    ```
 
